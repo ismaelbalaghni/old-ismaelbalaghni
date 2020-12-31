@@ -1,6 +1,7 @@
 ## Bienvenue chez Ismaël Balaghni !
 
 Vous saurez plus sur ma personne sur cette page ! C'est un peu comme mon portfolio.
+Si vous souhaitez me contacter, vous pouvez [m'envoyer un mail](mailto:hello@ismaelbalaghni.me).
 
 ## Éducation
 
