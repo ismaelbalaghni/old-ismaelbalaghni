@@ -1,21 +1,61 @@
-## Bienvenue chez IsmaÃ«l Balaghni !
+# Bienvenue chez Ismaël Balaghni !
 
-Vous saurez plus sur ma personne sur cette page ! C'est un peu comme mon portfolio.
+Vous en saurez plus sur moi ici ! C'est un peu comme mon portfolio.
 Si vous souhaitez me contacter, vous pouvez [m'envoyer un mail](mailto:hello@ismaelbalaghni.me).
 
-## Ã‰ducation
+## Expérience professionnelle
 
-- ESIEA, Ã©cole d'ingÃ©nieur du numÃ©rique, Ivry-sur-Seine (94)
-- IUT GEII
+**Apprenti ingénieur** @ Thales (depuis le 02 semptembre 2019)
+- Création d'outils, de simulateurs d'équipements et d'interfaces de contrôle
+- **__Technologies utilisées__** : Python, Qt
 
-## ExpÃ©rience professionnelle
+**Stage de fin de DUT** @ Thales (08 avril 2019 - 26 juillet 2019)
+- Création d'un outil de description d'interfaces logicielles d'un équipement
+- Rédaction de documents formalisés
+- **__Technologies utilisées__** : Python, Qt
 
-- Thales
+## Education
 
-## Centres d'intÃ©rÃªt
+**Diplôme d'ingénieur en informatique** @ ESIEA (depuis le 02 septembre 2019)
+- Cours spécialisés dans l'informatique et dans l'ingénierie logicielle
+- Spécialité dans l'ingénierie logicielle
+- **__Technologies vues en cours__** : Java, C, Python, C# (Unity), Git
 
-## CompÃ©tences
+**DUT Génie Electrique et Informatique Industrielle** @ IUT de Ville d'Avray
+- Cours spécialisés dans l'électronique, l'automatique et l'informatique industrielle
+- Spécialité dans l'automatique et l'informatique industrielle
+- **_Technologies vues__** : C, C++, VHDL
 
-### Support or Contact
+## Projets
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and weâ€™ll help you sort it out.
+**Projet télémètre** @ IUT de Ville d'Avray
+- Réaliser un télémètre avec un FPGA
+- Affichage de la distance sur un écran 7 segments
+- **__Technologies vues__** : VHDL
+
+**Projet thermomètre** @ IUT de Ville d'Avray
+- Réaliser un thermomètre à l'aide de puces électroniques et thermistances
+- Envoi et affichage des données à l'aide d'un Arduino sur un ordinateur
+- Envoi et affichage des données à l'aide d'un Arduino sur un téléphone en Bluetooth
+- **__Technologies vues__** : C, Arduino, thermistances
+
+**Projet BB-8** @ IUT de Ville d'Avray
+- Réalisation d'un clone de BB-8 du film Star Wars
+- Pilotage du robot par un téléphone via un Arduino et le Bluetooth
+- Ajout d'ambiances sonores
+- **__Technologies vues__** : C, Arduino, mécanique, rédaction de documents
+
+**Démineur** (projet personnel)
+- Réalisation d'un démineur avec un camarade de classe
+- **__Technologies vues__** : C, C++, SFML
+
+## Centres d'intérêt
+
+- Jeux vidéos
+- Musique
+- Cuisine
+- Télévision
+
+## Autres expériences
+
+**Cours auprès de personnes âgées** (2014 - 2019)
