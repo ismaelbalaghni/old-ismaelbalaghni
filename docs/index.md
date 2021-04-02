@@ -5,57 +5,57 @@ Si vous souhaitez me contacter, vous pouvez [m'envoyer un mail](mailto:hello@ism
 
 ## Experience professionnelle
 
-**Apprenti ingÈnieur** @ Thales (depuis le 02 semptembre 2019)
-- CrÈation d'outils, de simulateurs d'Èquipements et d'interfaces de contrÙle
-- **__Technologies utilisÈes__**: Python, Qt
+**Apprenti ing√©nieur** @ Thales (depuis le 02 semptembre 2019)
+- Cr√©ation d'outils, de simulateurs d'√©quipements et d'interfaces de contr√¥le
+- **_Technologies utilis√©es_**: Python, Qt
 
 **Stage de fin de DUT** @ Thales (08 avril 2019 - 26 juillet 2019)
-- CrÈation d'un outil de description d'interfaces logicielles d'un Èquipement
-- RÈdaction de documents formalisÈs
-- **__Technologies utilisÈes__**: Python, Qt
+- Cr√©ation d'un outil de description d'interfaces logicielles d'un √©quipement
+- R√©daction de documents formalis√©s
+- **_Technologies utilis√©es_**: Python, Qt
 
 ## Education
 
-**DiplÙme d'ingÈnieur en informatique** @ ESIEA (depuis le 02 septembre 2019)
-- Cours spÈcialisÈs dans l'informatique et dans l'ingÈnierie logicielle
-- SpÈcialitÈ dans l'ingÈnierie logicielle
-- **__Technologies vues en cours__**: Java, C, Python, C# (Unity), Git
+**Dipl√¥me d'ing√©nieur en informatique** @ ESIEA (depuis le 02 septembre 2019)
+- Cours sp√©cialis√©s dans l'informatique et dans l'ing√©nierie logicielle
+- Sp√©cialit√© dans l'ing√©nierie logicielle
+- **_Technologies vues en cours_**: Java, C, Python, C# (Unity), Git
 
-**DUT GÈnie Electrique et Informatique Industrielle** @ IUT de Ville d'Avray
-- Cours spÈcialisÈs dans l'Èlectronique, l'automatique et l'informatique industrielle
-- SpÈcialitÈ dans l'automatique et l'informatique industrielle
-- **_Technologies vues__**: C, C++, VHDL
+**DUT G√©nie Electrique et Informatique Industrielle** @ IUT de Ville d'Avray
+- Cours sp√©cialis√©s dans l'√©lectronique, l'automatique et l'informatique industrielle
+- Sp√©cialit√© dans l'automatique et l'informatique industrielle
+- **_Technologies vues en cours_**: C, C++, VHDL
 
 ## Projets
 
-**Projet tÈlÈmËtre** @ IUT de Ville d'Avray
-- RÈaliser un tÈlÈmËtre avec un FPGA
-- Affichage de la distance sur un Ècran 7 segments
-- **__Technologies vues__**: VHDL
+**Projet t√©l√©m√®tre** @ IUT de Ville d'Avray
+- R√©aliser un t√©l√©m√®tre avec un FPGA
+- Affichage de la distance sur un √©cran 7 segments
+- **_Technologies utilis√©es_**: VHDL
 
-**Projet thermomËtre** @ IUT de Ville d'Avray
-- RÈaliser un thermomËtre ‡ l'aide de puces Èlectroniques et thermistances
-- Envoi et affichage des donnÈes ‡ l'aide d'un Arduino sur un ordinateur
-- Envoi et affichage des donnÈes ‡ l'aide d'un Arduino sur un tÈlÈphone en Bluetooth
-- **__Technologies vues__**: C, Arduino, thermistances
+**Projet thermom√®tre** @ IUT de Ville d'Avray
+- R√©aliser un thermom√®tre √† l'aide de puces √©lectroniques et thermistances
+- Envoi et affichage des donn√©es √† l'aide d'un Arduino sur un ordinateur
+- Envoi et affichage des donn√©es √† l'aide d'un Arduino sur un t√©l√©phone en Bluetooth
+- **_Technologies utilis√©es_**: C, Arduino, thermistances
 
 **Projet BB-8** @ IUT de Ville d'Avray
-- RÈalisation d'un clone de BB-8 du film Star Wars
-- Pilotage du robot par un tÈlÈphone via un Arduino et le Bluetooth
+- R√©alisation d'un clone de BB-8 du film Star Wars
+- Pilotage du robot par un t√©l√©phone via un Arduino et le Bluetooth
 - Ajout d'ambiances sonores
-- **__Technologies vues__**: C, Arduino, mÈcanique, rÈdaction de documents
+- **_Technologies utilis√©es_**: C, Arduino, m√©canique, r√©daction de documents
 
-**DÈmineur** (projet personnel)
-- RÈalisation d'un dÈmineur avec un camarade de classe
-- **__Technologies vues__**: C, C++, SFML
+**D√©mineur** (projet personnel)
+- R√©alisation d'un d√©mineur avec un camarade de classe
+- **_Technologies utilis√©es_**: C, C++, SFML
 
 ## Centres d'interet
 
-- Jeux vidÈos
+- Jeux vid√©os
 - Musique
 - Cuisine
-- TÈlÈvision
+- T√©l√©vision
 
 ## Autres experiences
 
-**Cours auprËs de personnes ‚gÈes** (2014 - 2019)
+**Cours aupr√®s de personnes √¢g√©es** (2014 - 2019)
