@@ -28,6 +28,11 @@ Si vous souhaitez me contacter, vous pouvez [m'envoyer un mail](mailto:hello@ism
 
 ## Projets
 
+[**Stocksinator**](http://www.ismaelbalaghni.me/PM-FMPproject) @ ESIEA
+- Création d'une application Android de récupération d'informations financières
+- Utilise le site Financial Modeling Prep
+- **__Technologies utilisées_**: Gradle, Java, Android Studio, architecture MVC, Git
+
 **Projet télémètre** @ IUT de Ville d'Avray
 - Réaliser un télémètre avec un FPGA
 - Affichage de la distance sur un écran 7 segments
