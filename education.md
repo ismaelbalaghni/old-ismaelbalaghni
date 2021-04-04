@@ -4,4 +4,3 @@ title: Éducation
 permalink: /education/
 ---
 
-## Education

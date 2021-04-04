@@ -1,0 +1,63 @@
+{% include header.html %}
+
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2>Expériences professionnelles</h2>
+                {% for job in site.jobs %}
+                <div class="wow fadeIn">
+                    {% if job.position == "left" %}
+                    <div class="content-wrap">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <div class="content">
+                                    <h3 class="title">{{ job.title }}</h3>
+                                    <p class="excerpt">{{ job.lead_text }}</p>
+                                    {% if job.project_link != empty %}
+                                    <a href="{{ job.project_link }}" class="project-link"><button
+                                            class="btn btn-default btn-lg"><i
+                                                class="fa fa-{{job.button_icon}} fa-lg"></i>{{job.button_text}}</button></a>
+                                    {% endif %}
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                {% if job.featured_image %}
+                                <img class="img-responsive" src="{{ job.featured_image }}"
+                                    title="{{ job.title }}">
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if job.position == "right" %}
+                    <div class="content-wrap">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                {% if job.featured_image %}
+                                <img class="img-responsive" src="{{ job.featured_image }}"
+                                    title="{{ job.title }}">
+                                {% endif %}
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <div class="content">
+                                    <h3 class="title">{{ job.title }}</h3>
+                                    <p class="excerpt">{{ job.lead_text }}</p>
+                                    {% if job.project_link != empty %}
+                                    <a href="{{ job.project_link }}" class="project-link"><button
+                                            class="btn btn-default btn-lg"><i
+                                                class="fa fa-{{job.button_icon}} fa-lg"></i>{{job.button_text}}</button></a>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</article>
+
+{% include footer.html %}

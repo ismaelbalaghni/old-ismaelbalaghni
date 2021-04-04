@@ -1,0 +1,61 @@
+{% include header.html %}
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2>Projets scolaires</h2>
+                {% for project in site.projects %}
+                <div class="wow fadeIn">
+                    {% if project.position == "left" %}
+                    <div class="content-wrap">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <div class="content">
+                                    <h3 class="title">{{ project.title }}</h3>
+                                    <p class="excerpt">{{ project.lead_text }}</p>
+                                    {% if project.project_link != empty %}
+                                    <a href="{{ project.project_link }}" class="project-link"><button
+                                            class="btn btn-default btn-lg"><i
+                                                class="fa fa-{{project.button_icon}} fa-lg"></i>{{project.button_text}}</button></a>
+                                    {% endif %}
+                                    <p>{{ project.content }}</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                {% if project.featured_image %}
+                                <img class="img-responsive" src="{{ project.featured_image }}" title="{{ project.title }}">
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if project.position == "right" %}
+                    <div class="content-wrap">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                {% if project.featured_image %}
+                                <img class="img-responsive" src="{{ project.featured_image }}" title="{{ project.title }}">
+                                {% endif %}
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <div class="content">
+                                    <h3 class="title">{{ project.title }}</h3>
+                                    <p class="excerpt">{{ project.lead_text }}</p>
+                                    {% if project.project_link != empty %}
+                                    <a href="{{ project.project_link }}" class="project-link"><button
+                                            class="btn btn-default btn-lg"><i
+                                                class="fa fa-{{project.button_icon}} fa-lg"></i>{{project.button_text}}</button></a>
+                                    {% endif %}
+                                    <p>{{ project.content }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</article>
+{% include footer.html %}

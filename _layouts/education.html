@@ -1,27 +1,64 @@
 {% include header.html %}
-
-  <!-- <article>
+<article>
     <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-
-          {% for school in site.education %}
-          <div class="wow fadeIn">
-            {% if post.position == "left" %}
-              {% include content-left.html %}
-            {% endif %}
-
-            {% if post.position == "right" %}
-              {% include content-right.html %}
-            {% endif %}
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+                <h2>Éducation</h2>
+                {% for school in site.education %}
+                <div class="wow fadeIn">
+                    {% if school.position == "left" %}
+                    <div class="content-wrap">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                <div class="content">
+                                    <h3 class="title">{{ school.title }}</h3>
+                                    <p class="excerpt">{{ school.lead_text }}</p>
+                                    {% if school.project_link != empty %}
+                                    <a href="{{ school.project_link }}" class="project-link"><button
+                                            class="btn btn-default btn-lg"><i
+                                                class="fa fa-{{school.button_icon}} fa-lg"></i>{{school.button_text}}</button></a>
+                                    {% endif %}
+                                    <p>{{ school.content }}</p>
+                                </div>
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                {% if school.featured_image %}
+                                <img class="img-responsive" src="{{ school.featured_image }}" title="{{ school.title }}">
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                    {% if school.position == "right" %}
+                    <div class="content-wrap">
+                        <div class="row">
+                            <div class="col-xs-12 col-md-6">
+                                {% if school.featured_image %}
+                                <img class="img-responsive" src="{{ school.featured_image }}" title="{{ school.title }}">
+                                {% endif %}
+                            </div>
+                            <div class="col-xs-12 col-md-6">
+                                <div class="content">
+                                    <h3 class="title">{{ school.title }}</h3>
+                                    <p class="excerpt">{{ school.lead_text }}</p>
+                                    {% if school.project_link != empty %}
+                                    <a href="{{ school.project_link }}" class="project-link"><button
+                                            class="btn btn-default btn-lg"><i
+                                                class="fa fa-{{school.button_icon}} fa-lg"></i>{{school.button_text}}</button></a>
+                                    {% endif %}
+                                    <p>{{ school.content }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    {% endif %}
+                </div>
+                {% endfor %}
             </div>
-          {% endfor %}
-
         </div>
-      </div>
     </div>
-  </article> -->
-  <article>
+</article>
+<!-- <article>
     <div class="container">
       <div class="row">
         <div class="col-md-8 col-md-offset-2">
@@ -34,7 +71,7 @@
         </div>
       </div>
     </div>
-  </article>
-  
+  </article> -->
+
 
 {% include footer.html %}
