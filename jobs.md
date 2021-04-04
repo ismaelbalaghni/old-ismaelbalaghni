@@ -2,6 +2,8 @@
 layout: inner
 title: Expériences professionnelles
 permalink: /jobs/
+pagination: 
+  enabled: true
 ---
 
 ## Experience professionnelle

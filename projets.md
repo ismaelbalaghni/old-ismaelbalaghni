@@ -2,6 +2,8 @@
 layout: inner
 title: Projets
 permalink: /projets/
+pagination: 
+  enabled: true
 ---
 
 ## Projets

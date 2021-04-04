@@ -28,6 +28,13 @@ markdown: kramdown
 plugins:
   - jekyll-paginate-v2
 
+
+# Site collections
+collections:
+  - education
+  - projects
+  - jobs
+
 ############################################################
 # Site configuration for the Jekyll 3 Pagination Gem
 # The values here represent the defaults if nothing is set
@@ -84,7 +91,7 @@ pagination:
 
   # Optional, the default name of the index file for generated pages (e.g. 'index.html')
   # Without file extension
-  indexpage: 'index'
+  # indexpage: 'index'
 
 ############################################################
 

@@ -1,0 +1,40 @@
+{% include header.html %}
+
+  <!-- <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+
+          {% for school in site.education %}
+          <div class="wow fadeIn">
+            {% if post.position == "left" %}
+              {% include content-left.html %}
+            {% endif %}
+
+            {% if post.position == "right" %}
+              {% include content-right.html %}
+            {% endif %}
+            </div>
+          {% endfor %}
+
+        </div>
+      </div>
+    </div>
+  </article> -->
+  <article>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+
+            {% for school in site.education %}
+            <h2>{{ school.title }}</h2>
+            <p>{{ school.lead_text }}</p>
+            {% endfor %}
+
+        </div>
+      </div>
+    </div>
+  </article>
+  
+
+{% include footer.html %}
