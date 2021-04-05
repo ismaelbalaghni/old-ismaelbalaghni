@@ -1,9 +1,9 @@
 ---
 layout: inner
-position: right
+position: left
 title: "Thermomètre"
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-lead_text: "Ingénieur généraliste spécialisé dans l'ingénierie logicielle"
+featured_image: '/img/thermometre.jpg'
+lead_text: "Projet en systèmes électroniques"
 ---
 - Réaliser un thermomètre à l'aide de puces électroniques et thermistances
 - Envoi et affichage des données à l'aide d'un Arduino sur un ordinateur

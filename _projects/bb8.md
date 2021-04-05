@@ -2,8 +2,8 @@
 layout: inner
 position: right
 title: "Réplique de BB-8"
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-lead_text: "Ingénieur généraliste spécialisé dans l'ingénierie logicielle"
+featured_image: '/img/bb8.png'
+lead_text: "Projet tutoré pour la deuxième année de DUT"
 ---
 - Réalisation d'un clone de BB-8 du film Star Wars
 - Pilotage du robot par un téléphone via un Arduino et le Bluetooth

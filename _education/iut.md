@@ -3,8 +3,8 @@ layout: inner
 position: left
 title: 'DUT Génie Electrique et Informatique Industrielle'
 tags: ecole ingenieur
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-project_link: 'https://www.esiea.fr'
+featured_image: '/img/logo_geii.png'
+project_link:
 ---
 _01/09/2017 - 26/07/2019_
 - Cours spécialisés dans l'électronique, l'automatique et l'informatique industrielle

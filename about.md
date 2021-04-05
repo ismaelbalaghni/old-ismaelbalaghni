@@ -1,8 +1,10 @@
 ---
-layout: inner
+layout: about
 title: About
 permalink: /about/
+featured_image: "/img/ismael.png"
 ---
+
 ## Centres d'intérêt
 
 - Jeux vidéos

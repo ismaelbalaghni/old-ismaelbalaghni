@@ -2,11 +2,11 @@
 layout: inner
 position: right
 title: "Stage de fin d'études"
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-lead_text: "Ingénieur généraliste spécialisé dans l'ingénierie logicielle"
-project_link: 'https://www.ismaelbalaghni.me/PM-FMPproject'
-button_icon: 'github'
-button_text: 'Visit Project'
+featured_image: '/img/logo_square_thales.png'
+lead_text: "08/04/2019 - 26/07/2019"
+project_link:
+button_icon:
+button_text:
 ---
 - Création d'un outil de description d'interfaces logicielles d'un équipement
 - Rédaction de documents formalisés

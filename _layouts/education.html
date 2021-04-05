@@ -4,6 +4,7 @@
         <div class="row">
             <div class="col-md-8 col-md-offset-2">
                 <h2>Éducation</h2>
+                <div class="break"></div>
                 {% for school in site.education %}
                 <div class="wow fadeIn">
                     {% if school.position == "left" %}
@@ -13,7 +14,7 @@
                                 <div class="content">
                                     <h3 class="title">{{ school.title }}</h3>
                                     <p class="excerpt">{{ school.lead_text }}</p>
-                                    {% if school.project_link != empty %}
+                                    {% if school.project_link != nil %}
                                     <a href="{{ school.project_link }}" class="project-link"><button
                                             class="btn btn-default btn-lg"><i
                                                 class="fa fa-{{school.button_icon}} fa-lg"></i>{{school.button_text}}</button></a>
@@ -41,7 +42,7 @@
                                 <div class="content">
                                     <h3 class="title">{{ school.title }}</h3>
                                     <p class="excerpt">{{ school.lead_text }}</p>
-                                    {% if school.project_link != empty %}
+                                    {% if school.project_link != nil %}
                                     <a href="{{ school.project_link }}" class="project-link"><button
                                             class="btn btn-default btn-lg"><i
                                                 class="fa fa-{{school.button_icon}} fa-lg"></i>{{school.button_text}}</button></a>
@@ -58,20 +59,4 @@
         </div>
     </div>
 </article>
-<!-- <article>
-    <div class="container">
-      <div class="row">
-        <div class="col-md-8 col-md-offset-2">
-
-            {% for school in site.education %}
-            <h2>{{ school.title }}</h2>
-            <p>{{ school.lead_text }}</p>
-            {% endfor %}
-
-        </div>
-      </div>
-    </div>
-  </article> -->
-
-
 {% include footer.html %}

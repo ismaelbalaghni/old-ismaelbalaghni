@@ -2,8 +2,8 @@
 layout: inner
 position: right
 title: "Stocksinator"
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
-lead_text: "Ingénieur généraliste spécialisé dans l'ingénierie logicielle"
+featured_image: '/img/stocksinator.jpg'
+lead_text: "Projet de programmation mobile"
 project_link: 'https://www.ismaelbalaghni.me/PM-FMPproject'
 button_icon: 'github'
 button_text: 'Visit Project'

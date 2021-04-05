@@ -2,7 +2,7 @@
 layout: inner
 position: right
 title: "Diplôme d'ingénieur en informatique"
-featured_image: '/img/posts/01_bloc-jams-angular-1130x864-2x.png'
+featured_image: '/img/logo_esiea.png'
 lead_text: "Ingénieur généraliste spécialisé dans l'ingénierie logicielle"
 ---
 _Depuis le 26 août 2019._
