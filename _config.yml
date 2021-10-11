@@ -17,7 +17,7 @@ title: "Ismaël Balaghni."
 email: 'contact@ismaelbalaghni.eu'
 description: "Apprenti ingénieur. 21 ans."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.ismaelbalaghni.eu" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://ismaelbalaghni.eu" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'ismascarade'
 github_username: 'ismaelbalaghni'
 medium_username: 'ismael.balaghni'
@@ -96,15 +96,15 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Thanks to Jami Gibbs and Joey Navarro'
+footer_text: 'Apprenti ingénieur'
 admin_name: 'Ismaël Balaghni'
-enable_contact: true
+enable_contact: false
 
 #### Phantom Navigation menu
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/about', text: 'About' }
+  - { url: '/apropos', text: 'À propos' }
   - { url: '/education', text: 'Éducation'}
   - { url: '/jobs', text: 'Expérience professionnelle'}
   - { url: '/projets', text: 'Projets'}
