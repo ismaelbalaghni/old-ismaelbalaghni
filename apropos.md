@@ -5,28 +5,28 @@ permalink: /apropos/
 featured_image: "/img/ismael.png"
 ---
 
-<h1 align="center">Bienvenue chez moi ! 👋</h1>
+<h1>Bienvenue chez moi ! 👋</h1>
 
-<p align="center">Je suis Ismaël Balaghni et je suis apprenti. Je suis à l'ESIEA en spécialité Ingénierie
+<p>Je suis Ismaël Balaghni et je suis apprenti. Je suis à l'ESIEA en spécialité Ingénierie
   Logicielle/Systèmes d'Information. Je suis chez Thales en apprentissage.</p>
 
-<h2 align="center">Qui je suis-je ? 🧑</h2>
+<h2>Qui je suis-je ? 🧑</h2>
 
-<p align="center">Je suis passionné d'🖥️ et de nouvelles technologies depuis mon plus jeune âge. J'ai réussi à
+<p>Je suis passionné d'🖥️ et de nouvelles technologies depuis mon plus jeune âge. J'ai réussi à
   faire planter Internet Explorer 6 quand c'était encore le navigateur à la mode. J'ai toujours essayé de découvrir de
   nouvelles choses, de nouveaux logiciels, de nouveaux systèmes d'exploitation. Fidèle à Windows et aux services et
   logiciels Microsoft depuis le début, c'est mon rêve ultime de travailler chez eux.</p>
 
-<p align="center">Sinon, j'aime bien la 🎵, les 🎞️ et je commence à m'intéresser de plus en plus
+<p>Sinon, j'aime bien la 🎵, les 🎞️ et je commence à m'intéresser de plus en plus
   aux médias et au journalisme. Les habillages de chaînes de télévision m'intéressent de plus en plus. J'aime aussi le
   football américain, j'aime bien regarder en tout cas. J'ai découvert ce magnifique sport avec le Superbowl 53 qui a vu
   la victoire de mon équipe de cœur aujourd'hui que sont les Patriots. Depuis peu, j'ai aussi commencé à m'intéresser au
   hockey (le championnat nord-américain notamment), coup de cœur pour les Canadiens de Montréal et des Maple Leafs de
   Toronto.</p>
 
-<h2 align="center">Les technos que j'ai vues ⚙️</h2>
+<h2>Les technos que j'ai vues ⚙️</h2>
 
-<p align="center">
+<p>
   <a href="https://developer.android.com" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
       alt="android" width="40" height="40" /> </a>
@@ -66,9 +66,9 @@ featured_image: "/img/ismael.png"
       alt="unity" width="40" height="40" /> </a>
 </p>
 
-<h2 align="center">Les technos que j'ai vues et que j'aimerais approfondir 🔨⚙️</h2>
+<h2>Les technos que j'ai vues et que j'aimerais approfondir 🔨⚙️</h2>
 
-<p align="center">
+<p>
   <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg"
       alt="angular" width="40" height="40" /> </a>
   <a href="https://aws.amazon.com" target="_blank"> <img
@@ -142,9 +142,9 @@ featured_image: "/img/ismael.png"
       src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a>
 </p>
 
-<h2 align="center">Les technos que je souhaite découvrir et apprendre 📚⚙️</h2>
+<h2>Les technos que je souhaite découvrir et apprendre 📚⚙️</h2>
 
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img
+<p> <a href="https://aws.amazon.com/amplify/" target="_blank"> <img
       src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40" /> </a> <a
     href="https://angular.io" target="_blank"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
@@ -222,11 +222,11 @@ featured_image: "/img/ismael.png"
       alt="xamarin" width="40" height="40" /> </a> <a href="https://zapier.com" target="_blank"> <img
       src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a> </p>
       
-<h2 align="center"> Comment qu'on me contacte ?</h2>
+<h2> Comment qu'on me contacte ?</h2>
 
-<p align="center">Par 📧 par exemple : <a href="mailto:dev@ismaelb.ovh">dev@ismaelb.ovh</a></p>
-<p align="center">Ou ici :</p>
-<p align="center">
+<p>Par 📧 par exemple : <a href="mailto:dev@ismaelb.ovh">dev@ismaelb.ovh</a></p>
+<p>Ou ici :</p>
+<p>
   <a href="https://twitter.com/ismascarade" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ismascarade" height="30" width="40" />
   </a>
