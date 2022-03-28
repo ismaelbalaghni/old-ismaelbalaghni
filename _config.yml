@@ -104,6 +104,7 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
+  - { url: '/blabla', text: 'Mon blabla' }
   - { url: '/apropos', text: 'À propos' }
   - { url: '/education', text: 'Éducation'}
   - { url: '/jobs', text: 'Expérience professionnelle'}
