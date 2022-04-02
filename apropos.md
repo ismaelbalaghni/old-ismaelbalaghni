@@ -1,5 +1,5 @@
 ---
-layout: inner
+layout: apropos
 title: About
 permalink: /apropos/
 ---

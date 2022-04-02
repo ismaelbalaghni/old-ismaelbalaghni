@@ -1,0 +1,21 @@
+{% include header.html %}
+
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8 col-md-offset-2">
+
+                {{ content }}
+
+            </div>
+        </div>
+        {% if site.enable_contact == true %}
+        <p class="text-center">
+            {% include contact.html %}
+            {% include contact-modal.html %}
+        </p>
+        {% endif %}
+    </div>
+</article>
+
+{% include footer.html %}
