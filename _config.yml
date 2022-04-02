@@ -98,7 +98,7 @@ pagination:
 ### Phantom settings
 footer_text: 'Apprenti ingénieur'
 admin_name: 'Ismaël Balaghni'
-enable_contact: false
+enable_contact: true
 
 #### Phantom Navigation menu
 enable_nav: true
