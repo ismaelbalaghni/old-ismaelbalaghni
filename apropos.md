@@ -7,7 +7,7 @@ permalink: /apropos/
 # Bienvenue chez moi ! 👋
 Je suis Ismaël Balaghni et je suis apprenti. Je suis à l'ESIEA en spécialité Ingénierie Logicielle/Systèmes d'Information et chez Thales en apprentissage.
 
-## Qui je suis-je ? 🧑
+## Qui suis-je ? 🧑
 
 Je suis passionné d'🖥️ et de nouvelles technologies depuis mon plus jeune âge. J'ai réussi à faire planter Internet Explorer 6 quand c'était encore le navigateur à la mode. J'ai toujours essayé de découvrir de nouvelles choses, de nouveaux logiciels, de nouveaux systèmes d'exploitation. Fidèle à Windows et aux services et logiciels Microsoft depuis le début, c'est mon rêve ultime de travailler chez eux.
 
