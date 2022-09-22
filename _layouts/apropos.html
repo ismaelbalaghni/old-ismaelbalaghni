@@ -1,0 +1,21 @@
+{% include header.html %}
+<article>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-8 col-md-6">
+                {{ content }}
+            </div>
+            <div class="col-xs-8 col-md-6">
+                <img class="img-responsive" src="/img/ismael.jpg" title="Moi en vacances avec un t-shirt Star Wars">
+                <p class="text-center">C'est moi en vacances. J'aime bien Star Wars.</p>
+            </div>
+        </div>
+        {% if site.enable_contact == true %}
+        <p class="text-center">
+            {% include contact.html %}
+            {% include contact-modal.html %}
+        </p>
+        {% endif %}
+    </div>
+</article>
+{% include footer.html %}
