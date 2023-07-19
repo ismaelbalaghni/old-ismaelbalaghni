@@ -1,9 +1,9 @@
 ---
 layout: inner
 position: left
-title: "Apprenti ingénieur"
+title: "Ingénieur développement logiciel"
 featured_image: '/img/logo_square_thales.png'
-lead_text: "02/09/2019 - 31/08/2022"
+lead_text: "05/09/2022"
 project_link:
 button_icon:
 button_text:
