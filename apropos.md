@@ -5,7 +5,7 @@ permalink: /apropos/
 ---
 
 # Bienvenue chez moi ! 👋
-Je suis Ismaël Balaghni et je suis apprenti. Je suis à l'ESIEA en spécialité Ingénierie Logicielle/Systèmes d'Information et chez Thales en apprentissage.
+Je suis Ismaël Balaghni et je suis développeur. Alumni ESIEA depuis septembre 2022, diplômé en Ingénierie Logicielle/Systèmes d'Information et développeur chez Thales.
 
 ## Qui suis-je ? 🧑
 
