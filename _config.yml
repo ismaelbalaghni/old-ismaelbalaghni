@@ -13,11 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Ismaël Balaghni - Le site d'un apprenti qui blablate de tout et de rien."
-email: 'contact@ismaelbalaghni.eu'
-description: "Apprenti futur Ingénieur de 22 ans. Passionné d'informatique et de nouvelles technologies."
+title: "Ismaël Balaghni - Le site d'un sweng qui blablate de tout et de rien."
+email: 'contact@ismaelbalaghni.me'
+description: "Ingénieur logiciel de 23 ans. Passionné d'informatique et de nouvelles technologies."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ismael.balaghni.eu" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://www.ismaelbalaghni.me" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'Ismascarade'
 github_username: 'ismaelbalaghni'
 medium_username: 'ismael.balaghni'
@@ -96,7 +96,7 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: 'Apprenti futur Ingénieur'
+footer_text: 'Software Engineer - 23'
 admin_name: 'Ismaël Balaghni'
 enable_contact: false
 
