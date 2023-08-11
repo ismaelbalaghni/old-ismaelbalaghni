@@ -7,12 +7,12 @@ tags:
 description: Tout Humain n'est pas parfait MAIS...
 lengthy_description: ...j'arrive à exceller dans ce domaine.
 ---
-Le dernier article de ce blog date de 2022. J'y indiquais mon grand objectif pour 2022 : 
+Le dernier article de ce blog date de 2022. J'y indiquais mon grand objectif pour 2022 :
 > Ce que je vise pour juin 2022 ? Je pense vraiment que ce site sera prêt, que tout sera propre et que je pourrai commencer à bloguer.
 
 Ai-je réussi mon objectif ? Je pense la question elle est vite répondue (ayez la réf svp).
 
-Quelques nouvelles infos sur ma vie depuis la dernière fois que nous nous sommes parlés : j'ai eu mon permis, j'ai eu mon diplôme, j'ai signé mon premier poste.
+Quelques nouvelles infos sur ma vie depuis la dernière fois que nous nous sommes parlés : j'ai eu mon permis, j'ai eu mon diplôme, j'ai signé mon premier contrat.
 
 J'ai récemment vu avec mon manager quels allaient être mes objectifs à court, moyen et long terme. Je fais du Python et un peu de DevOps. Je vise l'expertise à court et moyen terme.
 
