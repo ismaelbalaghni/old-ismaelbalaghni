@@ -9,4 +9,4 @@ button_icon:
 button_text:
 ---
 - Création d'outils, de simulateurs d'équipements et d'interfaces de contrôle
-- **_Technologies utilisées_**: Python, Qt
+- **_Technologies utilisées_**: Python, Qt, Jenkins, SonarQube
