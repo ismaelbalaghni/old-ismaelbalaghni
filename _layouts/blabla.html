@@ -5,12 +5,12 @@
       <div class="col-md-8 col-md-offset-2">
         <h1>C'est ici que vous trouverez un peu tous mes avis.</h1>
         {% for post in site.posts %}
-          <h2 class="title">{{ post.title }}</h2>
-          {% if post.featured_image %}
-          <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
-          {% endif %}
-          <p>{{ post.description }}</p>
-          <a href="{{ post.url }}">Lire la suite</a>
+        <h2 class="title">{{ post.title }}</h2>
+        {% if post.featured_image %}
+        <img class="img-responsive" src="{{ post.featured_image }}" title="{{ post.title }}">
+        {% endif %}
+        <p>{{ post.description }}</p>
+        <a href="{{ post.url }}">Lire la suite</a>
         {% endfor %}
       </div>
       <div class="break"></div>
