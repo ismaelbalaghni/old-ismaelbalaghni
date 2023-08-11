@@ -98,6 +98,7 @@ pagination:
 ### Phantom settings
 footer_text: 'Software Engineer - 23'
 admin_name: 'Ismaël Balaghni'
+admin_email: 'postmaster@ismaelbalaghni.me'
 enable_contact: false
 
 #### Phantom Navigation menu
